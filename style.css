@@ -1,0 +1,36 @@
+body {
+    background-color: #b16b3b;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ffdaa4;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #fff4e5;
+}
+
+img {
+    width: 650px;
+}
+
+h3 {
+    color: #eeca95;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+p, h2, h1, .center, h3, ul, ol {
+    text-align: center;
+}
+
+p {
+    color: #fff4e5;
+}
+
+ul, li {
+    list-style: none;
+    color: #fff4e5;
+}
