@@ -34,3 +34,36 @@ ul, li {
     list-style: none;
     color: #fff4e5;
 }
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.recetas {
+    text-decoration: underline;
+    text-align: center;
+    display: block;
+    margin: 20px;
+    font-size: 15px;
+}
+
+footer {
+    background-color: #4f301b;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff4e5;
+}
+.icon-footer {
+    height: 20px;
+}
+
+.svg-whatsapp {
+    height: 60px;
+    width: 70px;
+    float: right;
+    position: fixed;
+}
